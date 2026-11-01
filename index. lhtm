@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تقرير الذكاء الاصطناعي التوليدي للمطورين - Task 2</title>
+</head>
+<body>
+
+    <!-- الترويسة وبيانات الطالبة -->
+    <header>
+        <h1>الذكاء الاصطناعي التوليدي كعامل مساعد للمطورين المبتدئين</h1>
+        <p><strong>اسم الطالبة:</strong> نورهان سامي محمد حسن الصفطاوي</p>
+        <p><strong>الرقم الجامعي:</strong> 2503058</p>
+        <p><strong>المادة:</strong> تطبيقات الإنترنت والمنصات الإلكترونية</p>
+    </header>
+
+    <hr>
+
+    <!-- 1. المقدمة -->
+    <section>
+        <h2>1. المقدمة</h2>
+        <p>
+            يشهد مجال تطوير الويب والمنصات الإلكترونية ثورة كبرى بفضل التطور السريع في تقنيات <strong>الذكاء الاصطناعي التوليدي (Generative AI)</strong>. 
+            ولم يعد الذكاء الاصطناعي مجرد أداة للأتمتة التقليدية، بل أصبح رفيقاً وحليفاً للمطورين، وبخاصة المبتدئين منهم.
+        </p>
+        <p>
+            تأتي أهمية النماذج اللغوية الحديثة مثل <b>Gemini</b> و <b>ChatGPT</b> من قدرتها على تبسيط مفاهيم البرمجة المعقدة، وتسهيل شرح أكواد الويب الأساسية (مثل HTML, CSS, JavaScript)، مما يسرع عملية التعلم ويقلل من الفجوة التعليمية لدى الطلاب في بداية مسارهم التقني.
+        </p>
+
+        <!-- صورة تعبر عن موضوع التقرير -->
+        <p>
+            <img src="ai-developer.jpg" alt="الذكاء الاصطناعي يساعد المطورين في كتابة الأكواد" width="500">
+        </p>
+    </section>
+
+    <!-- 2. عرض الموضوع -->
+    <section>
+        <h2>2. عرض الموضوع</h2>
+        
+        <h3>أ. أبرز مجالات مساعدة الذكاء الاصطناعي للمطور المبتدئ</h3>
+        <p>
+            يمكن للذكاء الاصطناعي تقديم الدعم في عدة جوانب رئيسية:
+        </p>
+
+        <!-- جدول تلخيص المقارنة والمعلومات -->
+        <table border="1" cellpadding="8" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>المجال</th>
+                    <th>الوصف والفائدة</th>
+                    <th>مثال تطبيقي</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>شرح الأكواد (Code Explanation)</strong></td>
+                    <td>تفكيك الأكواد المعقدة وشرح وظيفة كل سطر بلغة بسيطة.</td>
+                    <td>شرح الفرق بين عناصر الهيكلة في HTML.</td>
+                </tr>
+                <tr>
+                    <td><strong>تصحيح الأخطاء (Debugging)</strong></td>
+                    <td>اكتشاف الأخطاء البرمجية واقتراح الحلول المناسبة فوراً.</td>
+                    <td>معالجة أخطاء عدم ظهور العناصر في CSS.</td>
+                </tr>
+                <tr>
+                    <td><strong>توليد الأمثلة (Code Generation)</strong></td>
+                    <td>إنشاء نماذج برمجية جاهزة لتسريع عملية التعلم.</td>
+                    <td>كتابة نموذج تسجل دخول بسيط.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>ب. ضوابط الاستخدام الرشيد</h3>
+        <p>
+            رغم الفوائد الجمة للذكاء الاصطناعي التوليدي، يجب على المطور المبتدئ مراعاة الاعتماد عليه كـ <strong>مساعد للتعلم</strong> وليس بديلاً عن الفهم الذاتي، مع مراجعة الأكواد الناتجة بانتظام.
+        </p>
+    </section>
+
+    <!-- 3. المراجع -->
+    <section>
+        <h2>3. المراجع</h2>
+        <ul>
+            <li>
+                <a href="https://ai.google/build/" target="_blank">Google AI Documentation: Generative AI Models and Developer Applications</a>
+            </li>
+            <li>
+                <a href="https://developer.mozilla.org/" target="_blank">MDN Web Docs: HTML & CSS Developer Basics</a>
+            </li>
+            <li>
+                <a href="https://platform.openai.com/docs/" target="_blank">OpenAI Guides: Code Generation Best Practices</a>
+            </li>
+        </ul>
+    </section>
+
+</body>
+</html>
